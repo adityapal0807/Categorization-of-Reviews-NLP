@@ -1,137 +1,68 @@
-What is company culture?
-Company culture is how you do what you do in the workplace. It’s the sum of your formal and informal systems and behaviors and values, all of which create an experience for your employees and customers.
-At its core, company culture is how things get done around the workplace. “How” includes both the formal systems, and the informal behaviors.
+Every organization’s culture is different, and it’s important to retain what makes your company unique. However, the cultures of high-performing organizations consistently reflect certain qualities that you should seek to cultivate:
 
-For example, your company may use instant messaging software to communicate throughout the day (system), and it may also be okay to yell at a coworker to get your point across (behavior). Your systems and behaviors give employees the “rules of the road” for interacting with the business, and each other.
+Alignment comes when the company’s objectives and its employees’ motivations are all pulling in the same direction. Exceptional organizations work to build continuous alignment to their vision, purpose, and goals.
 
-Company culture is often something you can feel, even as an outsider.
+Appreciation can take many forms: a public kudos, a note of thanks, or a promotion. A culture of appreciation is one in which all team members frequently provide recognition and thanks for the contributions of others.
 
-I can recall the first time I walked into the lobby of a company on our Fortune 100 Best Companies to Work For® list. As I approached the door, employees who were walking in and passing by made eye contact and said “hello.”
+Trust is vital to an organization. With a culture of trust, team members can express themselves and rely on others to have their back when they try something new.
 
-The employee behind the desk greeted me warmly, offering me a cup of coffee and a comfortable seat. There was a distinct, positive energy in the building. My first experiences as a guest gave me a taste of how they “do things around here.”
+Performance is key, as great companies create a culture that means business. In these companies, talented employees motivate each other to excel, and, as shown above, greater profitability and productivity are the results.
 
-How to identify your company culture
-The best way to understand a company’s culture is to ask employees. This could be through an employee experience survey platform like Emprising™.
+Resilience is a key quality in highly dynamic environments where change is continuous. A resilient culture will teach leaders to watch for and respond to change with ease.
 
-You’ll hear some people describe a company culture with statements like “people are willing to talk to each other, share what they know and take the proactive step to get you in touch with the right person,” or “people always come first”.
+Teamwork encompasses collaboration, communication, and respect between team members. When everyone on the team supports each other, employees will get more done and feel happier while doing it.
 
-Cool perks like unlimited vacation time and innovative policies may help shape company culture, but they do not make a great workplace. The experience of your people does.
+Integrity, like trust, is vital to all teams when they rely on each other to make decisions, interpret results, and form partnerships. Honesty and transparency are critical components of this aspect of culture.
 
-Where does organizational culture come from?
-Of all the ingredients that make up your organizational culture, the most important variables are how:
+Innovation leads organizations to get the most out of available technologies, resources, and markets. A culture of innovation means that you apply creative thinking to all aspects of your business, even your own cultural initiatives.
 
-Employees communicate with each other
-Decisions are made
-People are hired, promoted, and let go
-Employees are recognized
-Employees celebrate their work and each other
-Every company does each of these things, but as in most things, it’s not what you do, it’s how you do it.
+Psychological safety provides the support employees need to take risks and provide honest feedback. Remember that psychological safety starts at the team level, not the individual level, so managers need to take the lead in creating a safe environment where everyone feels comfortable contributing.Now that you know what a great culture looks like, let’s tackle how to build one in your organization.
 
-Why is company culture important?
-Company culture is important because it directly affects company performance on key metrics including finances, employee retention, innovation and customer service. 
+8 steps to building a high-performing organizational culture
+Creating a great organizational culture requires developing and executing a plan with clear objectives that you can work towards and measure. The 8 steps below should serve as a roadmap for building a culture of continuity that will deliver long-term benefits across your company.
 
-1. Financial returns
+1. Excel in recognition
+Recognizing the contributions of all team members has a far-reaching, positive effect on organizational culture. When everyone on the team recognizes the accomplishments of others, individuals start to see how they’re part of a whole. Even the most jaded employees want to know their work matters, and they notice when they aren’t appreciated — 76 percent of employees don’t feel especially recognized by superiors. Experts agree that when an organization makes appreciating employees part of its culture, important metrics like employee engagement, retention, and productivity improve.
 
-According to research by Great Place to Work and FTSE Russell, annual returns for the 100 Best Companies have had a cumulative return of 1,709% since 1998, as compared to a 526% return for the Russell 3000 Index during the same period.
+Making recognition part of your culture means it must be a regular occurrence, not something that is only reserved for major milestones or work anniversaries. Encourage team members to practice frequent social recognition in addition to monetary recognition. Providing social recognition on a consistent basis has a remarkable business impact: companies that invest in social recognition are four times more likely to increase stock prices, twice more likely to improve NPS scores, and twice more likely to improve individual performances.
 
-2. Employee retention
+Monetary recognition is valuable as well. Consider a points-based recognition program that will allow employees to easily build up substantial point balances. They’ll enjoy looking forward to redeeming their points for a reward that’s personally meaningful to them, rather than being handed a generic mug or a years of service award that will gather dust on a shelf.
 
-When a workforce is diverse and the company culture is inclusive, equitable and rewarding for all employees, people are willing to stay at the company a long time. Millennials, for example, are 11 times more likely to leave their company than Gen Xers if their needs for purpose at work are not met.
+To foster other cultural traits, recognition should also be clearly tied to company values and specific actions. After all, 92 percent of employees agree when they’re recognized for a specific action, they’re more likely to take that action again in the future.
 
-3. Innovation
+Last but not least, leadership needs to take center stage in your recognition efforts, as they’re the cultural trendsetters for your entire company. Incorporate a recognition talk track into your leadership training and share top tips with managers on how to recognize others and why it matters.
 
-When employees experience inclusive leadership behaviors and systems, they are better poised to speak up, share ideas and adapt to change. This is what we call a culture of innovation or Innovation by All™. 
+2. Enable employee voice
+Creating a culture that values feedback and encourages employee voice is essential, as failing to do so can lead to lost revenue and demotivated employees.
 
-4. Customer service
+First, you need to collect feedback using the right listening tools that make it easy for employees to express what they’re feeling in the moment, like pulse surveys and workplace chatbots. Then analyze the results to see what’s working and what isn’t in your organization, and act on those findings while they’re still relevant. Not only does this strengthen your culture, it leads to benefits like higher employee fulfillment and greater profitability. According to a Clutch survey, 68 percent of employees who receive regular feedback feel fulfilled in their jobs, and Gallup found that organizations with managers who received feedback on their strengths showed 8.9 percent greater profitability.
 
-Studies confirm that employee happiness translates into employee efficiency, creativity and productivity. This, in turn, has the same effect on customers.
+In addition to gathering feedback using the methods described above, make sure you’re paying attention to more subtle expressions of feedback that can reveal cultural deficiencies. For example, pay attention to body language, as it can tell you much even when employees aren’t willing to share. If you’re working with a remote team, video conferences can help keep this nonverbal channel of communication open. Managers should treat all their sessions with employees as opportunities to gather and respond to feedback and act as a trusted coach.
 
-In our own research on the average U.S. workforce and how they compare to Great Place to Work-Certified™ companies (companies where employees rank the company culture highly), we found that employees at Certified workplaces are 34% more likely to rate their customer service as “excellent.”
+3. Make your leaders culture advocates
+Your company’s success in building a strong workplace culture rests in the hands of team leaders and managers. For example, if your workplace culture prioritizes certain values and your leadership team doesn’t exemplify them — or even displays behaviors that go against them — it undermines the effort. Team members will recognize the dissonance between stated values and lived behaviors. They may even start to emulate negative behaviors because they believe those behaviors have been rewarded by management.
 
+Your leadership team can help build the culture you need by prioritizing it in every aspect of their work lives. They need to openly and transparently discuss the organization’s culture and values, and they should also be prepared to incorporate feedback from employees into their cultural advocacy efforts. Leaders need their employees’ perspective on culture — while 76 percent of executives believe their organization has a well-communicated value system, only 31 percent of employees agree. When employees see leaders living your culture, they’ll follow suit.
 
-4 keys to building an effective company culture
-1. Start where you are
+4. Live by your company values
+Your company’s values are the foundation of its culture. While crafting a mission statement is a great start, living by company values means weaving them into every aspect of your business. This includes support terms, HR policies, benefits programs, and even out-of-office initiatives like volunteering. Your employees, partners, and customers will recognize and appreciate that your organization puts its values into practice every day. You can also recognize employees for actions that exemplify your values to show that they’re more than just words and incentivize employees to build the value-based culture you want to see.
 
-Whether you have five employees or 50, there’s no better place to start than where you are. Initiate conversations with your employees about what makes your workplace distinct.
+5. Forge connections between team members
+Building a workplace culture that can handle adversity requires establishing strong connections between team members, but with increasingly remote and terse communication, creating those bonds can be challenging. Encouraging collaboration and engaging in team building activities — even when working remote — are two effective ways to bring your team together and promote communication.
 
-They’ll give you the language around what makes your culture tick. For marketing agency Brains On Fire, these initial conversations formed the basis of their company values.
+Look for and encourage shared personal interests between team members as well, especially among those from different generations that might otherwise have a difficult time relating to each other. This can create new pathways for understanding and empathy that are vital to improving communication, creativity, and even conflict resolution.
 
-2. Define the boundaries
+6. Focus on learning and development
+Great workplace cultures are formed by employees who are continually learning and companies that invest in staff development. Training initiatives, coaching, and providing employees with new responsibilities are all great ways to show your team that you’re invested in their success.
 
-Effective company culture doesn’t happen by accident, so once you have a pretty good understanding of what’s working in your workplace, apply your aspirational vision.
+A culture of learning has a significant business impact. Find Courses’ most recent benchmark study found that companies with highly engaged employees were 1.5 times more likely to prioritize soft skills development. It also found that companies that had experienced revenue growth in the previous financial year were twice more likely to use innovative learning technologies and three times more likely to increase their learning and development budgets.
 
-What is the experience you want to your employees to have? What do you want customers to say about your company? What behavior is inbounds and what is out-of-bounds?
+7. Keep culture in mind from day one
+When an employee’s perspective doesn’t match your company culture, internal discord is likely to be the result. Organizations should hire for culture and reinforce it during the onboarding process and beyond. Practices and procedures must be taught, and values should be shared.
 
-Based on employee feedback, Brains On Fire created a series of “golden rules,” or team values to encapsulate their principles and guide employee behaviors, such as “clear is kind” and “de-escalate versus escalate.”
+When hiring, ask questions focused on cultural fit, like what matters to the interviewee and why they’re attracted to working at your company. But these questions shouldn’t be the sole determining factor when evaluating a candidate, as the best organizations keep an open mind to diverse perspectives that can help keep their culture fresh.
 
-3. Model the way
+You should also prioritize building social relationships during the onboarding process so that employees have the insight necessary to understand your company’s culture and values. These relationships will last throughout the employee’s time at the company, so that cultural values are mutually reinforced on a continuous basis.
 
-This is where leaders must step up to move beyond words into action. Your mission, vision and values often reside on the wall, but the company culture is HOW you achieve those ends.
-
-If integrity is a core value, make sure everyone knows what it means to ACT with integrity. If transparency is a core value, make sure you demonstrate WHAT transparency looks like.
-
-And remember, you’re either building, breaking or rebuilding trust in every interaction with employees, so make your early ones count. 
-
-4. Measure your progress
-
-Even our best intentions may fall short of producing the desired employee experience, so make sure you’re getting regular feedback.
-
-Your people want to share their thoughts and recommendations for change, and the more you ask them, the more they’ll offer their best thinking to help continuously improve your business. Monitoring and analyzing employee feedback trends via an employee survey platform like Emprising will help guide your strategic HR decisions.
-
-Assess and transform your company culture
-Change involves introspection, so, naturally, the best leaders put a lot of focus on reflection. If you want to analyze your company culture and measure your progress, reach out to us about our survey and assessment tools for transforming company culture.
-
-Respect in the Workplace
-08 Nov 2017 / Samantha Hill
-Respect is the foundation of any positive and healthy workplace. It’s the support beam of every team, holding people up at eye-level with each other. Respect in the workplace is recognising that you, your employees and co-workers all have individual opinions, rights, values, beliefs, experience and competence.
-
-Exercising respect doesn’t necessarily come naturally within a workplace – it’s a commitment that takes practice and teamwork to accomplish. Having the right HR policies in place, and openly communicating and planning approaches to issues, will encourage respect and make your employees feel fulfilled and motivated to perform their best.
-
-Why is respect in the workplace important?
-Workplace legislation has long been guided by respect, drawing awareness to discrimination, fair work policies and working conditions. Respect encourages new ideas and innovation by ensuring the entire team hears differing values, beliefs and opinions.
-
-Respect allows your employees to feel valued in their roles. Valued employees feel recognised and motivated, meaning they’re ready to meet expectations and achieve more. It’s safe to say that respect is a vital part of any team.
-
-A respectful workplace leads to:
-
-Job satisfaction: respect culture allows for your employees to perform better, develop more and express creativity – all factors that contribute to job satisfaction.
-Employee engagement: when your employees feel valued, they’re more likely to pitch in and work hard.
-Less stress and conflict: the proper respect practices minimise stress for your staff, so they remain healthy and happy working with you.
-Productivity: being productive is a given when you allow your team to keep up morale through a respectful workplace.
-Positive relationships: your team will flourish with respect. The more you practice respect with your team, the easier it will be to get along.
-What does respect in the workplace look like?
-A respectful workplace is one that thrives on fairness, equality, and the inclusion of all staff. But respect is more than that – here are common qualities you will find in a respectful workplace:
-
-Empathy and compassion
-Interpersonal skills
-Equality and fairness
-Inclusivity
-Courtesy and care
-Trust and honesty.
-How to create a respectful workplace
-Harnessing respect is a powerful ingredient that links with high engagement, high satisfaction, productivity and knowledge-sharing. So how do we create an environment for our team to feel respected and valued?
-
-Work on self-development
-Don’t be afraid to set your staff up with a little homework. Workforce management software like Roubler can set you up with e-learning courses that will help your team grow and prosper. Work on self-development courses from your device and tailor what your team learn.
-
-Listening and including
-Employees who feel respected and included in their workplace have higher levels of engagement. Create a system where employees can share their thoughts and ideas on essential matters. You can delegate tasks for employees to oversee, making them feel valued as a part of the team.
-
-Don’t assume the worst of anyone
-Always listen to your employees, assess and work together to develop changes in behaviour where needed. Don’t assume that your employees intend to do wrong by the company for their benefit – perhaps they misunderstood.
-
-When you’re wrong, apologise
-We all make mistakes – when it happens, we apologise – being a great leader is knowing when to admit you’re wrong and move forward with a positive outlook. If we can’t hold ourselves accountable for our mishaps, our staff will feel undervalued.
-
-Putting construction into your criticism
-Constructive criticism is motivating and reassuring towards the growth and development of your employees. Don’t tell them what they did wrong, but how they can do it better.
-
-Building self-esteem
-A workplace that builds self-esteem holds high respect for their staff. Set your employees up for success by helping them work on weaknesses and by celebrating their improvements. Listen to their concerns and treat them like the high performers you know they can become.
-
-Recognising and rewarding
-A respectful, positive workplace is one that continues recognising staff wins. Whether in the form of prizes or shout outs at team meetings, make sure you are acknowledging your employees for all the hard work they are putting in.
-
-When it comes to respect in the workplace, good quality practices can push your staff to feel comfortable, valued and positive about going to work each day. Work on being inclusive, listen to your team, recognise them and your workplace will thrive.
-
-Roubler is a seamless all-in-one workforce management software that aims to see your workforce build productivity and efficiency. Check out the latest in Roubler news by following us on LinkedIn.
+8. Personalize the employee experience
+As modern consumers, your employees expect personalized experiences, so you need to focus on ways to help each team member identify with your culture. Tools like pulse surveys and employee-journey mapping are great ways to discover what your employees value and what their ideal corporate culture looks like. Take what you learn and tailor your actions to personalize the employee experience for your team. Once you start treating your employees with the same care you treat your customers, a culture that motivates each individual at your organization is sure to follow.
